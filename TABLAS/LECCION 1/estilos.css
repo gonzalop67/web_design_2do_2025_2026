@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#recreo {
+    background-color: lightyellow;
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+thead {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+table td {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+tbody td:first-child {
+    background-color: lightgoldenrodyellow;
+}
+
+.fisica {
+    background-color: darksalmon;
+}
+
+.aplicaciones {
+    background-color: hotpink;
+}
+
+.sistemas {
+    background-color: cornflowerblue;
+}
+
+.biologia {
+    background-color: aquamarine;
+}
+
+.quimica {
+    background-color: cadetblue;
+}
+
+.soporte {
+    background-color: chocolate;
+}
+
+.programacion {
+    background-color: darkseagreen;
+}
+
+.lengua {
+    background-color: burlywood;
+}
+
+.historia {
+    background-color: lightcoral;
+}
+
+.fol {
+    background-color: blueviolet;
+}
+
+.civica {
+    background-color:peru;
+}
+
+.matematica {
+    background-color: lightblue;
+}
+
+.ingles {
+    background-color: lightgreen;
+}
+
+.emprendimiento {
+    background-color: lightpink;
+}
+
+.diseño {
+    background-color: rgb(168, 192, 216);
+}
